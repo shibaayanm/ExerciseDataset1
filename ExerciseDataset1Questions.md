@@ -24,6 +24,8 @@ Column                         | About
 
 Please prepare an .csf file answering the following questions.
 
+## Questions
+
 1. Assign an auto increment numeric column **ID** arranging the entered dataset in ascending order by the date and time when the data entered. The line which was entered at very first should have an **ID** of '1' then '2' then '3' etc.
 
 2. Fetch the lines those denote that the data was entered on weekends.
@@ -58,5 +60,5 @@ Please prepare an .csf file answering the following questions.
 
 10. How many people in each industry have the minimum age compared to the other people in the same occupation, still have above average working hours in the industry. Diaplay the table in below format.
     
-| Industry | Occupation | NumberOfYoungMostPeople | TotalNumberOfPeopleInTheOccupation | AverageDailyHoursInTheOccupation | TotalNumberOfPeopleInTheIndustry | AverageDailyHoursInTheIndustry |
-|--|--|--|--|--|--|--|
+   | Industry | Occupation | NumberOfYoungMostPeople | TotalNumberOfPeopleInTheOccupation | AverageDailyHoursInTheOccupation | TotalNumberOfPeopleInTheIndustry | AverageDailyHoursInTheIndustry |
+   |--|--|--|--|--|--|--|
