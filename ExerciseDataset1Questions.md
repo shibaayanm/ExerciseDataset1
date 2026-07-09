@@ -6,7 +6,7 @@
 
 *From mondays to saturdays went hectic with their past 1 year with other projects, so they want your help to find out answers from this dataset. Also feel free to share any other observations apart from the asked questions if you want. I have their contacts, on any issues please reach out to me, will pass them.*
 
-## Bref on the dataset
+## Brief on the dataset
 
 Column                         | About
 |------------------------------|------------------------------------------------------------------------------------------------------------------------|
